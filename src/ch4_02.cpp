@@ -1,5 +1,4 @@
 #include<iostream>
-#include<utility>
 
 #define sort(a, b, c) {if(a > b) std::swap(a, b); if(b > c) std::swap(b, c); if(a > b) std::swap(a, b);}
 
